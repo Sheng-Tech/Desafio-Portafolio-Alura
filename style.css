@@ -449,10 +449,6 @@ Utiliza las referencias de los breakpoints @media abajo */
 @media (max-width: 760px) {
 
     /*Menu*/
-    section.menu {
-
-    }
-
     .menu__header {
         width: 70%;
     }
