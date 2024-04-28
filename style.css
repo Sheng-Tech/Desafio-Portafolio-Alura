@@ -359,6 +359,12 @@ section.formcontato {
     font-weight: bold;
 }
 
+.formcontato__botao:disabled {
+    background: var(--cor-de-fundo);
+    border: solid 2px lightgray;
+    color: lightgray;
+}
+
 /*footeer*/
 section.footer {
     display: flex;
